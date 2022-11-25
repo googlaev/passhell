@@ -2,7 +2,7 @@
 
 import subprocess
 import shlex
-def ran():
+def ran():##asdsald,caskdcaskf
 	''' компиляция и запуск временного файла tmp.pas'''
 	cmd = 'fpc tmp.pas'
 	args = shlex.split(cmd)
